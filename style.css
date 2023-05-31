@@ -2,9 +2,14 @@ h2{
     color: aqua;
 }
 table, th, td {
-    border: 1px black;
+    border: 1px solid white;
     border-collapse: collapse;
-  }
-  th, td {
-    background-color: lavenderblush;
-  }
+}
+th, td {
+    background-color: #96D4D4;
+}
+p{
+    text-align: center;
+    font-size: 5ch;
+    text-emphasis-color: red;
+}
