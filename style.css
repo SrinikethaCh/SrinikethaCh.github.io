@@ -11,5 +11,5 @@ th, td {
 p{
     text-align: center;
     font-size: 5ch;
-    text-emphasis-color: red;
+    color: red;
 }
